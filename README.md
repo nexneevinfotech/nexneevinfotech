@@ -113,17 +113,17 @@ Building Mobile Apps • Web Applications • Websites • Digital Products
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="https://via.placeholder.com/150x100/2F80ED/ffffff?text=NexCRM" width="150" height="100" style="border-radius: 10px;" /><br />
+        <img src="nexcrm.png" width="150" height="100" style="border-radius: 10px;" /><br />
         <b>🏢 NexCRM</b><br />
         <sub>Enterprise CRM Solution</sub>
       </td>
       <td width="33%" align="center">
-        <img src="https://via.placeholder.com/150x100/2F80ED/ffffff?text=NexPOS" width="150" height="100" style="border-radius: 10px;" /><br />
-        <b>💳 NexPOS</b><br />
-        <sub>Smart POS System</sub>
+        <img src="nexattendance.png" width="150" height="100" style="border-radius: 10px;" /><br />
+        <b>🕒 NexAttendance</b><br />
+        <sub>Smart Attendance Management System</sub>
       </td>
       <td width="33%" align="center">
-        <img src="https://via.placeholder.com/150x100/2F80ED/ffffff?text=NexHRM" width="150" height="100" style="border-radius: 10px;" /><br />
+        <img src="nexhrm.png" width="150" height="100" style="border-radius: 10px;" /><br />
         <b>👥 NexHRM</b><br />
         <sub>HR Management Platform</sub>
       </td>
