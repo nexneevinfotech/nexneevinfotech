@@ -11,7 +11,7 @@ Building Mobile Apps • Web Applications • Websites • Digital Products
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nexneeviinfotech&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=nexneevinfotech&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <!-- ====================================================================== -->
@@ -40,10 +40,10 @@ Building Mobile Apps • Web Applications • Websites • Digital Products
       <p>⭐ <b>Our Mission:</b> Transform ideas into powerful, scalable, and user-friendly digital experiences.</p>
     </td>
     <td width="40%" align="center">
-      <!-- Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=nexneev&show_icons=true&theme=transparent&hide_border=true&icon_color=2F80ED&text_color=718096&title_color=2F80ED" width="100%" />
+      <!-- Stats Card - Fixed with correct username -->
+      <img src="https://github-readme-stats.vercel.app/api?username=nexneevinfotech&show_icons=true&theme=transparent&hide_border=true&icon_color=2F80ED&text_color=718096&title_color=2F80ED" width="100%" />
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexneev&theme=transparent&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakNum=718096" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexneevinfotech&theme=transparent&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakNum=718096" width="100%" />
     </td>
   </tr>
 </table>
@@ -229,8 +229,8 @@ Building Mobile Apps • Web Applications • Websites • Digital Products
     <img src="https://img.shields.io/badge/Twitter-%40nexneev-2F80ED?style=for-the-badge&logo=twitter&logoColor=white&labelColor=151515" />
   </a>
   <br />
-  <a href="https://github.com/nexneev">
-    <img src="https://img.shields.io/badge/GitHub-%40nexneev-2F80ED?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" />
+  <a href="https://github.com/nexneevinfotech">
+    <img src="https://img.shields.io/badge/GitHub-%40nexneevinfotech-2F80ED?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" />
   </a>
 </div>
 
@@ -246,5 +246,5 @@ Building Mobile Apps • Web Applications • Websites • Digital Products
   <br />
   <sub>© 2024 NexNeev Infotech. All rights reserved. Made with ❤️ for innovation</sub>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=nexneev-infotech&label=Company+Profile+Views&color=2F80ED&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nexneevinfotech&label=Company+Profile+Views&color=2F80ED&style=flat-square" alt="Profile Views" />
 </div>
