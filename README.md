@@ -20,7 +20,7 @@ Building Mobile Apps • Web Applications • Websites • Digital Products
 
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Buildings/Office%20Building.png" alt="Office" width="30" height="30" />
+    <img src="nexneevlogo.jpeg" alt="Office" width="30" height="30" />
     About NexNeev Infotech
   </h2>
 </div>
